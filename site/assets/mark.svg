@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-label="The Simulation mark">
+<rect width="160" height="160" rx="32" fill="#07100d"/>
+<circle cx="80" cy="80" r="52" fill="none" stroke="#61f6c8" stroke-width="3"/>
+<circle cx="80" cy="80" r="30" fill="none" stroke="#9aa7ff" stroke-width="2" stroke-dasharray="5 7"/>
+<path d="M31 80h98M80 31v98" stroke="#61f6c8" stroke-width="2" opacity=".45"/>
+<circle cx="80" cy="80" r="7" fill="#f5f7ff"/>
+<circle cx="118" cy="54" r="5" fill="#ffcf66"/>
+<circle cx="47" cy="104" r="4" fill="#9aa7ff"/>
+</svg>
