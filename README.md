@@ -1,3 +1,5 @@
 # The Simulation
 
-Repository initialized. The full public research preview is being prepared on a review branch.
+> **Public research preview. Working title.**
+
+The full public foundation is being assembled on this branch.
